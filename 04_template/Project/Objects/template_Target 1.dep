@@ -1,0 +1,14 @@
+Dependencies for Project 'template', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::ARMCC
+F (..\User\main.c)(0x672D7F6D)(--c99 -c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\freertos\include -I ..\freertos\portable\RVDS\ARM_CM3-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="532" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (..\Doc\readm.txt)(0x672D78CC)()
+F (RTE\Device\ARMCM3\startup_ARMCM3.s)(0x5E8FB22C)(--cpu Cortex-M3 --li --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include--pd "__UVISION_VERSION SETA 532" --pd "_RTE_ SETA 1" --pd "ARMCM3 SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_armcm3.lst --xref -o .\objects\startup_armcm3.o --depend .\objects\startup_armcm3.d)
+F (RTE\Device\ARMCM3\system_ARMCM3.c)(0x5E8FB22C)(--c99 -c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\freertos\include -I ..\freertos\portable\RVDS\ARM_CM3-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="532" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\system_armcm3.o --omf_browse .\objects\system_armcm3.crf --depend .\objects\system_armcm3.d)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x5E8FB22C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8FB222)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F64687C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8FB222)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E83E7C2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8FB222)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8FB222)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x5E8FB22C)
